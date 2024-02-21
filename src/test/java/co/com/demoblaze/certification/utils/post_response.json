@@ -1,0 +1,14 @@
+{
+  "respuestaEsperado": null,
+  "name": "sebas",
+  "usernameEnv": "sebas108589",
+  "passEnv": 1008590909,
+  "messageWrong": [
+    {
+      "errorMessage": "Wrong password."
+    },
+    {
+      "errorMessage": "This user already exist."
+    }
+  ]
+}
