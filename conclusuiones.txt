@@ -1,0 +1,7 @@
+Consideraciones a tener presentes:
+
+1. La API de login deberia entregar un mensaje de que la creación se realizo con exito
+2. Las aplicaciones deberian de tener una documentación clara en su contrato para consumirse
+3. Se deberia de tener un token para acceder a las APIs que esten libres al uso no es seguro
+4. Validación de datos: Asegúrate de validar todos los datos proporcionados por el usuario durante el registro para garantizar que cumplan con los requisitos del sistema y prevenir posibles errores 
+5. Bloqueo de cuentas: Implementa medidas para bloquear temporalmente las cuentas después de un cierto número de intentos fallidos de inicio de sesión para prevenir ataques de fuerza bruta.
